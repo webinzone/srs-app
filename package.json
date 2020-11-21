@@ -4,7 +4,7 @@
   "description": "MERN Stack with ES6 and Typescript Boilerplate",
   "main": "server.js",
   "scripts": {
-    "start": "npm install && node app.js",
+    "start": "npm install && node server.js",
     "heroku-postbuild": "cd frontend && npm install && npm run build"
 
   },
